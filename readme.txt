@@ -5,7 +5,7 @@ Donate link: http://www.adityasubawa.com
 Tags: search, quick search, custom search, simple search, easy search
 Requires at least: 3.5.1
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.2
 
 Display custom quick search form as a stylish search form widgets in WordPress. very simple and easy to install.  
 
@@ -35,9 +35,13 @@ you must open the file `wp-quicksearch.php` plugins on the `wp-content/plugins/m
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 
-Plug-in is now compatible upto wordpress version 3.5.1
+fix help URL
+
+= 1.2 =
+
+Plug-in is now compatible upto wordpress version 3.5.1 
 
 == Credits ==
 

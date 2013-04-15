@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: My Quick Search
-Plugin URI: http://www.adityasubawa.com/wordpress-plugins.php
+Plugin URI: http://www.adityasubawa.com/wordpress
 Description: Display quick custom search form as a stylish search form widgets in WordPress.
-Version: 1.0
+Version: 1.2
 Author: Aditya Subawa
 Author URI: http://www.adityasubawa.com
 */
